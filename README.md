@@ -1,2 +1,5 @@
 # hello-world
-My very first GitHub repository
+
+Helloooo!
+
+I like damn fine cups of coffee and cherry pie.
